@@ -1,0 +1,76 @@
+.yo{
+    height: 600px;
+    width: 600px;
+    background-color: burlywood;
+    padding-top: 20px;
+    margin: auto;
+
+}
+.cat{
+    height: 100px;
+    width: 600px;
+    background-color: aqua;
+    display: flex;
+}
+.dog{
+    height: 480px;
+    width: 600px;
+    background-color: coral;
+    margin-top: 20px;
+}
+.pig{
+    height: 200px;
+    width:600px;
+    background-color: blueviolet;
+    display: flex;
+
+}
+.skyla{
+    height:200px;
+    width:300px;
+    background-color: yellow;
+}
+.zoe{
+    height: 200px;
+    width: 300px;
+    background-color: rgb(199, 90, 126);
+}
+   .kids{
+    height: 200px;
+    width: 600px;
+    background-color: red;
+    display: flex;
+   } 
+    .smith{
+        height: 200px;
+        width: 300px;
+        background-color: blueviolet;
+    }
+.leah{
+    height:200px;
+    width: 300px;
+    background-color: crimson;
+}
+.parents{
+    height: 200px;
+    width: 600px;
+    display: flex;
+}
+.dad{
+    height: 200px;
+    width: 300px;
+    background-color: cornflowerblue;
+}
+.mom{
+    height: 200px;
+    width: 300px;
+    background-color: darkslategrey;
+}
+.whiskers{
+    height: 100px;
+    width: 480px;
+}
+.claws{
+    height: 100px;
+    width: 120px;
+}

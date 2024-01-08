@@ -27,15 +27,15 @@
 }
 .skyla{
     height:200px;
-    width:280px;
+    width:298px;
     background-color: yellow;
-    padding: 20px;
+    padding: 2px;
 }
 .zoe{
     height: 200px;
-    width: 280px;
+    width: 298px;
     background-color: rgb(199, 90, 126);
-    padding: 20px;
+    padding: 2px;
 }
    .kids{
     height: 200px;
@@ -45,29 +45,23 @@
    } 
     .smith{
         height: 200px;
-        width: 300px;
+        width: 298px;
         background-color: blueviolet;
+        padding: 2px;
     }
 .leah{
     height:200px;
-    width: 300px;
+    width: 298px;
     background-color: crimson;
+    padding: 2px;
 }
 .parents{
     height: 200px;
     width: 600px;
-    display: flex;
-}
-.dad{
-    height: 200px;
-    width: 300px;
     background-color: cornflowerblue;
 }
-.mom{
-    height: 200px;
-    width: 300px;
-    background-color: darkslategrey;
-}
+
+
 .whiskers{
     height: 100px;
     width: 480px;
@@ -75,4 +69,11 @@
 .claws{
     height: 100px;
     width: 120px;
+}
+.img{
+    border-radius: 50px;
+}
+.rat{
+text-align: center;
+
 }

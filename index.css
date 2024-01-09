@@ -1,79 +1,104 @@
 .yo{
     height: 600px;
     width: 600px;
-    background-color: burlywood;
+    background-color:rgb(252, 250, 250);
     padding-top: 20px;
     margin: auto;
+    border-color: grey;
 
 }
 .cat{
     height: 100px;
     width: 600px;
-    background-color: aqua;
+    background-color:rgb(221, 216, 216);
     display: flex;
 }
 .dog{
     height: 480px;
     width: 600px;
-    background-color: coral;
+    background-color:lightgray;
     margin-top: 20px;
 }
 .pig{
     height: 200px;
     width:600px;
-    background-color: blueviolet;
+    background-color: lightgray;
     display: flex;
 
 }
 .skyla{
     height:200px;
-    width:298px;
-    background-color: yellow;
-    padding: 2px;
+    width:280px;
+    background-color: lightgray;
+    padding: 20px;
 }
 .zoe{
     height: 200px;
     width: 298px;
-    background-color: rgb(199, 90, 126);
+    background-color: lightgray;
     padding: 2px;
 }
    .kids{
     height: 200px;
     width: 600px;
-    background-color: red;
+    background-color: lightgray;
     display: flex;
+    padding-bottom: 20px;
    } 
     .smith{
         height: 200px;
         width: 298px;
-        background-color: blueviolet;
+        background-color:lightgray;
         padding: 2px;
     }
 .leah{
     height:200px;
-    width: 298px;
-    background-color: crimson;
+    width: 300px;
+    background-color: lightgray;
     padding: 2px;
 }
 .parents{
     height: 200px;
     width: 600px;
-    background-color: cornflowerblue;
+    background-color: lightgray;
+    display: flex;
+    padding-top: 20px;
 }
 
 
 .whiskers{
     height: 100px;
     width: 480px;
+    padding-left: 20px;
+    
 }
 .claws{
     height: 100px;
     width: 120px;
 }
-.img{
+img{
     border-radius: 50px;
+    margin-top: 15px;
+    
 }
 .rat{
-text-align: center;
+text-align: left;
+padding-top: 20px;
 
+}
+.pink{
+    text-align: right;
+    padding-right: 10px;
+}
+.mom{
+    height: 200px;
+    width: 298px;
+padding-left: 20px;
+padding-top: 10px;
+}
+.dad{
+    height: 200px;
+    width: 298px;
+padding-left: 100px;
+padding-top: 20px;
 }

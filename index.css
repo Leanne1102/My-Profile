@@ -21,16 +21,19 @@
 }
 .pig{
     height: 200px;
+
     width:600px;
     background-color: lightgray;
     display: flex;
 
+
 }
 .skyla{
-    height:200px;
+    height:100px;
     width:280px;
     background-color: lightgray;
-    padding: 20px;
+    padding : 20px;
+    padding-bottom: 5px;
 }
 .zoe{
     height: 200px;
@@ -47,9 +50,9 @@
    } 
     .smith{
         height: 200px;
-        width: 298px;
+        width: 280px;
         background-color:lightgray;
-        padding: 2px;
+        padding: 20px;
     }
 .leah{
     height:200px;
@@ -83,7 +86,8 @@ img{
 }
 .rat{
 text-align: left;
-padding-top: 20px;
+padding: 20px;
+
 
 }
 .pink{

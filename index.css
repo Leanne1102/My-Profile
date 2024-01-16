@@ -71,7 +71,7 @@
 
 .whiskers{
     height: 100px;
-    width: 480px;
+    width: 500px;
     padding-left: 20px;
     
 }
@@ -86,7 +86,7 @@ img{
 }
 .rat{
 text-align: left;
-padding: 20px;
+margin-bottom: 20px;
 
 
 }
